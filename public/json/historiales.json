@@ -1,0 +1,48 @@
+{
+  "historiales": [
+    {
+      "id": "1",
+      "nro_expediente": "1328525763",
+      "nombre_usuario": "JUAN JOSE CACERES",
+      "fecha": "14/08/2022",
+      "area_origen": "DIRECCIÓN DE PERSONAL",
+      "area_destino": "RELATORIA",
+      "motivo": "Falta presentar documentacion"
+    },
+    {
+      "id": "2",
+      "nro_expediente": "1328525763",
+      "nombre_usuario": "MARIA JOSE",
+      "fecha": "14/08/2022",
+      "area_origen": "RELATORIA",
+      "area_destino": "VOCALIA",
+      "motivo": "Falta sello"
+    },
+
+
+
+    {
+      "id": "3",
+      "nro_expediente": "1317094983",
+      "nombre_usuario": "LUCAS PEREZ",
+      "fecha": "10/7/2022",
+      "area_origen": "DEPARTAMENTO FALLOS",
+      "area_destino": "RELATORIA",
+      "motivo": "Revision de norma legal"
+    },
+
+
+
+    {
+      "id": "4",
+      "nro_expediente": "1408092384",
+      "nombre_usuario": "JOSE TORRES",
+      "fecha": "1/8/2022",
+      "area_origen": "RELATORIA",
+      "area_destino": "DEPARTAMENTO FALLOS",
+      "motivo": "Falta firma"
+    }
+
+
+  ]
+}

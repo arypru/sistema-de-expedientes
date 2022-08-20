@@ -1,0 +1,24 @@
+{
+  "areas":[
+    {"id":"1",
+      "descripcion":"SECRETARIA GENERAL TECNICA"},
+
+    {"id":"2",
+      "descripcion":"SECRETARIA GENERAL ADMINISTRATIVA"},
+
+    {"id":"3",
+      "descripcion":"DIRECCIÓN DE PERSONAL"},
+
+    {"id":"4",
+      "descripcion":"DEPARTAMENTO FALLOS"},
+
+    {"id":"5",
+      "descripcion":"DPTO. DE ADMINISTRACIÓN"},
+
+    {"id":"6",
+      "descripcion":"RELATORIA"},
+
+    {"id":"7",
+      "descripcion":"VOCALIA"}
+  ]
+}

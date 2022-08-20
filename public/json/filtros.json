@@ -1,0 +1,15 @@
+{
+  "areas":[
+    {"id":"1",
+      "descripcion":"SECRETARIA GENERAL TECNICA"},
+
+    {"id":"2",
+      "descripcion":"SECRETARIA GENERAL ADMINISTRATIVA"},
+
+    {"id":"3",
+      "descripcion":"DIRECCIÓN DE PERSONAL"},
+
+    {"id":"4",
+      "descripcion":"PRESIDENCIA"}
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "iniciadores": [
+    {
+      "id": "1",
+      "descripcion": "Ministerio de Seguridad",
+      "email": "ministeriodeseguridad@correo.com"
+    },
+    {
+      "id": "2",
+      "descripcion": "Poder Judicial",
+      "email": "poderjudicial@correo.com"
+    },
+    {
+      "id": "3",
+      "descripcion": "Poder Legislativo",
+      "email": "poderlegislativo@correo.com"
+    },
+    {
+      "id": "4",
+      "descripcion": "Ministerio de Justicia y Derechos Humanos",
+      "email": "ministeriodejusticiayderechos@correo.com"
+    },
+    {
+      "id": "5",
+      "descripcion": "Ministerio de Turismo",
+      "email": "ministerioturismo@correo.com"
+    },
+    {
+      "id": "6",
+      "descripcion": "Instituto de Lotería Y Casinos",
+      "email": "institutoloteriacasino@correo.com"
+    },
+    {
+      "id": "7",
+      "descripcion": "Instituto de Cardiología de Corrientes",
+      "email": "institutocardiologia@correo.com"
+    },
+    {
+      "id": "8",
+      "descripcion": "Instituto de Cultura de Corrientes",
+      "email": "institutoculturactes@correo.com"
+    },
+    {
+      "id": "9",
+      "descripcion": "Energía Correntina S.A (ENCOR SA)",
+      "email": "energiacorrentina@correo.com"
+    },
+    {
+      "id": "10",
+      "descripcion": "Administración de Obras sanitarias",
+      "email": "administracionobras@correo.com"
+    },
+    {
+      "id": "11",
+      "descripcion": "Instituto de Previsión social (IPS)",
+      "email": "ips@correo.com"
+    },
+    {
+      "id": "12",
+      "descripcion": "Salud Publica – Unidad Ejecutora Provincial (UEP)",
+      "email": "uep@correo.com"
+    }
+  ]
+}

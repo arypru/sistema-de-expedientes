@@ -1,0 +1,24 @@
+{
+  "tipo_expedientes":[
+    {"id":"1",
+      "descripcion":"FONDO PERMANENTE"},
+
+    {"id":"2",
+      "descripcion":"SUBSIDIO"},
+
+    {"id":"3",
+      "descripcion":"APORTE NO REINTEGRABLE"},
+
+    {"id":"4",
+      "descripcion":"ACORDADA 3201"},
+
+    {"id":"5",
+      "descripcion":"NOTAS"},
+
+    {"id":"6",
+      "descripcion":"REQUERIMIENTOS"},
+
+    {"id":"7",
+      "descripcion":"EXTRACTO GENERAL"}
+  ]
+}

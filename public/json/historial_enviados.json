@@ -1,0 +1,22 @@
+{
+  "expedientes_enviados": [
+    {
+    "nro_expediente":"1328525763",
+    "extracto": "Rendicion de cuentas N°01/20 fdo. pte. gtos. bienes de consumo no personales. bs. uso y transf. dcto N°2548/20 $1.000.000,00 (ministerio reparticion)",
+    "tramite":"FONDO PERMANENTE",
+    "observacion_pase": "Falta presentar documentacion",
+    "fecha_envio" : "18/08/2022",
+    "area_destino": "VOCALIA",
+    "nombre_usuario": "JUAN JOSE CACERES"
+  },
+    {
+      "nro_expediente":"1757525763",
+      "extracto": "Rendicion de cuentas N°01/20 fdo. pte. gtos. bienes de consumo no personales. bs. uso y transf. dcto N°2548/20 $1.000.000,00 (ministerio reparticion)",
+      "tramite":"SUBSIDIO",
+      "observacion_pase": "Falta sello",
+      "fecha_envio" : "14/08/2022",
+      "area_destino": "RELATORIA",
+      "nombre_usuario": "MARIA JOSE"
+    }
+  ]
+}

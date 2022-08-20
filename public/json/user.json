@@ -1,0 +1,14 @@
+{
+  "users":[
+
+    {"cuil":"201245678221",
+      "area":"SECRETARIA GENERAL TECNICA",
+      "area_id":  "8",
+      "area_type": "Marzo, 2020",
+      "password": "12345678",
+      "dni": "12456782",
+      "nombre_apellido":  "Juan Jose Caceres",
+      "telefono": "3333458956",
+      "email":  "juanjose@mail.com"}
+  ]
+}
