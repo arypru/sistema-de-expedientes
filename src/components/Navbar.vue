@@ -5,7 +5,7 @@
         <v-row no-gutters class="justify-space-around">
 
           <v-col cols="2" lg="2" md="1" align="start" align-self="center">
-            <a href="/"><LogoNavbar/></a>
+
           </v-col>
 
           <v-col cols="8" lg="7" md="10" align="center" align-self="center">
@@ -28,14 +28,13 @@
 </template>
 
 <script>
-import LogoNavbar from './LogoNavbar'
 import DropdownMenu from "./DropdownMenu";
 import {mapGetters} from "vuex";
 
 export default {
   name: 'Navbar',
 
-  components: {LogoNavbar,DropdownMenu},
+  components: {DropdownMenu},
 
   data: () => ({
     bandejas:[ {titulo:'Pendientes', link:'/expedientes-pendientes'},{titulo: 'Expedientes', link:'/expedientes'},{titulo: 'Enviados',link:'/historial-enviados'}],
